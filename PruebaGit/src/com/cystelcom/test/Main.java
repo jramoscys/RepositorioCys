@@ -7,10 +7,11 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//No se os olvide meter aquí vuestro código.
+		//No se os olvide meter aquï¿½ vuestro cï¿½digo.
 		//Esto va a ser un chanchullo
 		System.out.println("Feature2");
 		System.out.println("Feature1");
+		System.out.println("Esta caracterÃ­stica es desde fuera");
 	}
 
 }
