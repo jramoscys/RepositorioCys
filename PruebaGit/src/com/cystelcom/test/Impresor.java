@@ -1,4 +1,4 @@
-package com.cystelcom.test.services;
+package com.cystelcom.test;
 
 public class Impresor {
 	public static void Imprime(){
