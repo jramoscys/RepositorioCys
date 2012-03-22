@@ -9,7 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		//No se os olvide meter aquí vuestro código.
 		//Esto va a ser un chanchullo
-
+		System.out.println("Esta es la feature2");
 	}
 
 }
