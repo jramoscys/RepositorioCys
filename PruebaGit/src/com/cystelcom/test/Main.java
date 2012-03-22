@@ -11,6 +11,7 @@ public class Main {
 		//Esto va a ser un chanchullo
 		System.out.println("Feature 2");
 		System.out.println("Feature 1");
+		System.out.println("Esta característica es desde fuera");
 	}
 
 }
