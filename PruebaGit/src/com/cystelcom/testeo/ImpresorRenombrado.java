@@ -1,4 +1,4 @@
-package com.cystelcom.test;
+package com.cystelcom.testeo;
 
 public class ImpresorRenombrado {
 	public static void Imprime(){
