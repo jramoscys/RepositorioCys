@@ -1,6 +1,6 @@
-package com.cystelcom.test;
+package com.cystelcom.testeo;
 
-public class Main {
+public class Principal {
 
 	/**
 	 * @param args
